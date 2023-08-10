@@ -1,8 +1,9 @@
 import './App.css';
+import Footer from './components/Footer/index.js';
 function App() {
   return (
     <div className="App">
-      hello
+      <Footer/>
     </div>
   );
 }

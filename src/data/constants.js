@@ -274,8 +274,6 @@ export const projects = [
     github: "https://github.com/Vibhatia/To-do/tree/master",
     webapp: " https://vibhatia.github.io/To-do/",
   },
-
-  
   {
     id: 5,
     title: "SkyCast",
